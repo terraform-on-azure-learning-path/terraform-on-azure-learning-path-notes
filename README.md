@@ -14,10 +14,14 @@ The files for the Terraform on Azure Learning path are as follows:
 
 - `learn-pr/includes/terraform-paths.md`: This file is included in all the learning paths to provide the high level navigation between them.
 
-### Learning Paths
+### Learning Path Indexes
 
 - `learn-pr/paths/terraform-fundamentals`: This folder contains the files for the Terraform Fundamentals learning path
 - `learn-pr/paths/terraform-intermediate`: This folder contains the files for the Terraform Intermediate learning path
 - `learn-pr/paths/terraform-advanced`: This folder contains the files for the Terraform Advanced learning path
 - `learn-pr/paths/terraform-azure-pipelines`: This folder contains the files for the Terraform Azure Pipelines learning path
 - `learn-pr/paths/terraform-github-actions`: This folder contains the files for the Terraform GitHub Actions learning path
+
+### Learning Path Modules
+
+- `learn-pr/azure/terraform-*`: These folders contain the Terraform Learning Path modules
